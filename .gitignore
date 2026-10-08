@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+*token*.json
+.spotipy*
+.venv/
+*.mp3
+*.m4a
+*.webm
+*.part
+*.info.json
