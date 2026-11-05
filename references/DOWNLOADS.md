@@ -1,3 +1,11 @@
+# Downloads — atualização de 04/11/2026
+
+O fluxo local foi executado com 50 faixas do lote Fred again: validação de MP3, decodificação integral, metadados, ordem e hashes no destino. Há uma diferença de duração documentada para Piensas En Mi. Consulte [o guia do lote](../downloads/fred-again/README.md) e o [README principal](../README.md) para instalação e limites. O repositório contém scripts e manifesto; não inclui os áudios.
+
+Na sessão desta atualização, o conector Spotify disponibilizou `get_collection_items` com paginação e a lista de 50 itens foi obtida integralmente. A disponibilidade das ferramentas deve ser confirmada a cada ambiente. O conector fornece metadados; os áudios vieram de fontes externas.
+
+O texto abaixo é um registro de pesquisa de 08/10/2026. As declarações sobre ferramenta não executada ou ausência de leitura de itens descrevem aquela data, não o estado da entrega atual.
+
 # Pesquisa sobre downloads — 08/10/2026
 
 ## 1. Ouvir offline no Spotify
@@ -24,3 +32,4 @@ O projeto foi identificado e pesquisado; não foi instalado ou executado. Para u
 
 ## Diagnóstico
 Quando offline falhar, verificar plano, conexão, armazenamento, limite de dispositivos e estado do aplicativo. Distinguir faixa indisponível de falha geral. Não mudar assinatura, configurações de rede ou apagar downloads sem pedido. Encerrar com estado comprovado: disponível offline, em andamento, falhou ou não verificado.
+

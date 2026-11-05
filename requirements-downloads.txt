@@ -1,0 +1,3 @@
+yt-dlp==2026.8.19
+rapidfuzz>=3,<4
+mutagen>=1.47,<2

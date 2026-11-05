@@ -12,3 +12,18 @@ __pycache__/
 *.webm
 *.part
 *.info.json
+
+
+# Lotes locais: código e manifestos são versionados, áudios e execuções não.
+*.flac
+*.wav
+*.opus
+*.ogg
+*.mp4
+*.ytdl
+downloads/**/audio/
+downloads/**/incompletos/
+downloads/**/relatorio*.json
+downloads/**/delivery-verification.json
+downloads/**/*-search.jsonl
+downloads/**/*-source.json
